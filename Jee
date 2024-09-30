@@ -1,0 +1,7 @@
+#include <studio.h>
+int main()
+{
+char c = 's'
+printf("The ASCII value of %d",c,c);
+return 0;
+}
